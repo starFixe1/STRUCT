@@ -1,0 +1,39 @@
+* dataStructures
+** learn_
+- to learn I don't have to copy word for word the book or the example. You need to record the google things then "google" (or research) your questions to find them out. I started writing the code from the book, but that consumes too much time and so spend the time researching and learning instead of copying. As you dive deeper in the research you will find a world that you would have never found other wise. Stop being a tourist, but an explorer when it comes to knowledge. 
+** analogy_
+- in this example
+double getTotalPrice() const
+      {
+         return (this->basePrice + getSalesTax() + getShippingCost());
+      }
+
+- it seems that the getSalesTax() and the getShippingCost() is like a C-c C-l in an org file that links one file to another. 
+- analogy:
+data = files (hello.cpp)
+functions = are folders (which contains many other files and/or folders)
+data types + const + static (etc.) = chmod
+class = gitHub (private or public) workplace
+** idea_
+- what if you replace the word "data" for files and "class" as folder.
+- data types are like chmod for files, telling us what is  and is not allowed with the files. 
+** bookmark_
+- bookmarking everything in google that I find seems to be the best thing to do. I've tried using the books and now my programming classes are beginnning to use them, they teach us that it is better to be an expert researcher than simply a reader. 
+** cs165 assign04_
+- how to put the class definition in cpp 
+- how to write member functions in cpp
+- what is the scop resolution operator
+- getline in c++ vs cout
+- static in c++
+- this-> in c++
+  - seems to be like cd / 
+- using cin after getline
+- c++ what is cin.clear(), cin.ignore(256,'\n')
+- cin.fail()
+- how are cin error flags formed
+- what is a const in c++
+  - constants seem to be part of the chmod for data (or I see it as files)
+- cout.setf(ios::fixed), cout.setf(ios::showpoint), cout.precision(2);
+- true and false in c++ loop statements 
+
+** cs165 myAssign01.cpp
